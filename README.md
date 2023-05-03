@@ -9,6 +9,8 @@ I'm Kars
 
 *I mostly do private work so don't expect to see much public commits from me*
 
+Working on Hercules Optimiser, should release soon :D
+
 ### My GitHub Statistics
 <details>
    <summary>Click to show</summary>
