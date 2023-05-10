@@ -1,6 +1,6 @@
-### Hello! 👋
+<h1 align='center'>### Hello! 👋</h1>
 
-I'm Kars
+<h3 align='center'>I'm Kars</h3>
 
 - 🌱 I’m currently experienced in Java and relearning python.
 - 🔭 I’m an Owner at [Catposting](https://discord.gg/catposting)
