@@ -2,7 +2,7 @@
 
 <h3 align='center'>I'm Kars</h3>
 
-- 🌱 I’m currently experienced in Java and relearning python.
+- 🌱 I’m currently relearning Python and am experienced in Java.
 - 🔭 I’m an Owner at [Catposting](https://discord.gg/catposting)
 - ⚔  I'm also a developer on [Muffinized](https://discord.gg/pZ6aakyeun) and [AcentraMC](https://discord.gg/acentramc)
 - 📫 You can contact me on Discord by adding Kars#1996
