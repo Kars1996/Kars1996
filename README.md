@@ -4,7 +4,7 @@ I'm Kars
 
 - 🌱 I’m currently experienced in Java and relearning python.
 - 🔭 I’m an Owner at [Catposting](https://discord.gg/catposting)
-- ⚔  I'm also a developer on [Muffinized](https://discord.gg/https://discord.gg/pZ6aakyeun) and [AcentraMC](https://discord.gg/acentramc)
+- ⚔  I'm also a developer on [Muffinized](https://discord.gg/pZ6aakyeun) and [AcentraMC](https://discord.gg/acentramc)
 - 📫 You can contact me on Discord by adding Kars#1996
 
 *I mostly do private work so don't expect to see much public commits from me*
