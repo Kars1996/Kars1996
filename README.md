@@ -7,7 +7,7 @@
 - ⚔  I'm also a developer on [Muffinized](https://discord.gg/pZ6aakyeun) and [AcentraMC](https://discord.gg/acentramc)
 - 📫 You can contact me on Discord by adding Kars#1996
 
-*I mostly do private work so don't expect to see manypublic commits from me*
+*I mostly do private work so don't expect to see many public commits from me*
 
 Working on Hercules Optimiser, should release soon :D
 
