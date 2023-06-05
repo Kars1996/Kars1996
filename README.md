@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently relearning Python and am experienced in Java (and like 3 other languages).
 - 🔭 I’m an Owner at [Catposting](https://discord.gg/catposting)
-- ⚔  I'm also a developer on [Muffinized](https://discord.gg/pZ6aakyeun) and [AcentraMC](https://discord.gg/acentramc)
+- ⚔  I'm also a developer at
+[Muffinized](https://discord.gg/pZ6aakyeun)
 - 📫 You can contact me on Discord by adding Kars#1996
 
 *I mostly do private work so don't expect to see many public commits from me*
