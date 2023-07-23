@@ -1,6 +1,6 @@
 <h1 align='center'>Hello! 👋</h1>
 
-<h3 align='center'>I'm Kars</h3>
+<h3 align='center'>I'm <a href="https://kars.bio>Kars</a></h3>
 
 - 🌱 I’m currently relearning Python and am experienced in Java and web development.
 - 🔭 I’m an Owner at [Catposting](https://discord.gg/catposting)
