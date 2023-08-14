@@ -14,8 +14,8 @@
 Working on Hercules Optimiser, should release soon :D
 
 ### My GitHub Statistics
-<details>
-   <summary>Click to show</summary>
-   <img align="Left" alt="Kars Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kars1996&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" />
-   <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kars1996&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
-</details>
+<<p align="center">  
+  <a href="https://github.com/kars1996">
+    <img alt="GitHub Stats" src="https://streak-stats.demolab.com?user=kars1996&theme=dark&hide_border=true&ring=FFA117&fire=FFA117&currStreakLabel=FFA117"/>
+  </a>
+</p>
