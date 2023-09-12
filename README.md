@@ -20,4 +20,6 @@ Working on Hercules Optimiser, should release soon :D
       <img alt="GitHub Stats" src="https://streak-stats.demolab.com?user=kars1996&theme=dark&hide_border=true&ring=FFA117&fire=FFA117&currStreakLabel=FFA117"/>
     </a>
   </p>
+  <p> Languages/Tools:</p>
+  <p><b>Python, CSS, JS, HTML, NodeJS, NextJS, React, React Native, TypeScript, C++, C, C#, Bash, Lua, Java (Probably More lol)</b></p>
 </details>
