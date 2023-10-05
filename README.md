@@ -11,7 +11,7 @@
 
 *I mostly do private work so don't expect to see many public commits from me*
 
-Working on Hercules Optimiser, should release soon :D
+Working on `React Devtools`. More Info Soon :D
 
 ### My GitHub Statistics
 <details>
