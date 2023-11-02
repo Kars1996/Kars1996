@@ -17,7 +17,7 @@ Working on `React Devtools`. More Info Soon :D
 <details>
   <p align="center">  
     <a href="https://github.com/kars1996">
-      <img alt="GitHub Stats" src="https://streak-stats.demolab.com?user=kars1996&theme=dark&hide_border=true&ring=FFA117&fire=FFA117&currStreakLabel=FFA117"/>
+      <img alt="GitHub Stats" src="https://streak-stats.demolab.com/?user=kars1996&theme=dark&hide_border=true&border_radius=10"/>
     </a>
   </p>
   <p> Languages/Tools:</p>
