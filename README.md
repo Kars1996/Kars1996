@@ -21,7 +21,7 @@ Working on `React Devtools`. More Info Soon :D
     </a>
   </p>
   <p> Languages/Tools:</p>
-  <p><b>Python, CSS, JS, HTML, NodeJS, NextJS, React, React Native, TypeScript, C++, C, C#, Bash, Lua, Java (Probably More lol)</b></p>
+  <p><b>Python, CSS, JS, HTML, NodeJS, NextJS, React, React Native, TypeScript, C++, C, C#, Bash, Lua, Java, Rust, Go (Probably More lol) but I'm bad at most of them.</b></p>
   I also take Discord Bot and Website commisions. Contact info found on my site.<b>
   I also have over 70+ Private repos that i actively work on so don't worry about how much i code!
 </details>
