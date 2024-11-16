@@ -1,5 +1,5 @@
 <a href="https://kars.bio" align="center">
-  <img src="[https://cdn.discordapp.com/attachments/1250416372706443315/1307401807273918485/profile_banner.png?ex=673a2c51&is=6738dad1&hm=151a815b16f8d71997cee5e8c64029d6f87aed7bc78eb22c399f69a28e01e50f&](https://cdn.discordapp.com/attachments/1250416372706443315/1307404062815289374/Profile_Cover_2.png?ex=673a2e6a&is=6738dcea&hm=a0def7291dcf03d4bf279851f87bde1e80f6dd0d85b2272e5ac6a9a11486674f&)" 
+  <img src="https://cdn.discordapp.com/attachments/1250416372706443315/1307404062815289374/Profile_Cover_2.png?ex=673a2e6a&is=6738dcea&hm=a0def7291dcf03d4bf279851f87bde1e80f6dd0d85b2272e5ac6a9a11486674f&" 
     align="center"
     >
 <a/>
