@@ -2,16 +2,15 @@
 
 <h3 align='center'>I'm Kars</h3>
 
-- 🌱 I’m currently relearning Python and am experienced in Java and web development.
-- 🔭 I’m an Owner of Vanity Bot
-- 🧠 Trying to learn Graphic Design and Frontend Development.
-- ⚔  I'm also a developer at
-[Muffinized](https://discord.gg/pZ6aakyeun)
+- 🌱 I'm a full stack web developer, practicing designer, and python/backend enjoyer.
+- 🔭 I’m co-founded [Resynced.design](https://resynced.design) and am trying to scale it!
+- 🧠 Working on improving my skills and design flare!
+- ⚔  I'm also a developer at numerous smaller projects
 - 📫 You can contact me on Discord by adding Kars#1996 or check out my [Portfolio](https://kars.bio)
 
 *I mostly do private work so don't expect to see many public commits from me*
 
-Working on `React Devtools`. More Info Soon :D
+Working on `Ghost Docs`. More Info Soon
 
 ### My GitHub Statistics
 <details>
