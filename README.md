@@ -1,5 +1,8 @@
 <a href="https://kars.bio" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1250416372706443315/1307401807273918485/profile_banner.png?ex=673a2c51&is=6738dad1&hm=151a815b16f8d71997cee5e8c64029d6f87aed7bc78eb22c399f69a28e01e50f&" align="center">
+  <img src="https://cdn.discordapp.com/attachments/1250416372706443315/1307401807273918485/profile_banner.png?ex=673a2c51&is=6738dad1&hm=151a815b16f8d71997cee5e8c64029d6f87aed7bc78eb22c399f69a28e01e50f&" 
+    align="center"
+    style="display: block; margin: 0 auto; width: 80%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px;" 
+    >
 <a/>
 
 <h1 align='center'>Hello! 👋</h1>
@@ -29,8 +32,7 @@ Working on `Ghost Docs`. More Info Soon
   I also take Discord Bot and Website commisions. Contact info found on my site.<b>
   I also have over 300+ Private repos that i actively work on so don't worry about how much i code! You can always check my activity Graph
 
-  <p align="center">
-    Code Time    
+  <p align="center">  
     <a href="https://github.com/kars1996">
       <img alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D27237%26project%3D%26in=0">
     </a>
