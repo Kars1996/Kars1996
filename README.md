@@ -24,6 +24,8 @@ Working on `Ghost Docs`. More Info Soon
   <p align="center">  
     <a href="https://github.com/kars1996">
       <img alt="GitHub Stats" src="https://streak-stats.demolab.com/?user=kars1996&theme=dark&hide_border=true&border_radius=24"/>
+      <br />
+      <img alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=kars1996&border_radius=24&layout=compact&langs_count=4&theme=dark&hide_border=true&order=2"
     </a>
   </p>
   <p> Languages/Tools:</p>
