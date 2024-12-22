@@ -16,7 +16,7 @@
 
 _I mostly do private work so don't expect to see many public commits from me_
 
-Working on `Ghost Docs`. More Info Soon
+Working on `Nimbus Docs`. More Info Soon
 
 ### My GitHub Statistics
 
