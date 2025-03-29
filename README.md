@@ -16,7 +16,7 @@
 
 _I mostly do private work so don't expect to see many public commits from me_
 
-Working on `Nimbus Docs`. More Info Soon
+Currently improving [termed.me](https://termed.me) consider [`registering now!`](https://termed.me/register?ref=kars&utm_source=gh-readme)
 
 ### My GitHub Statistics
 
