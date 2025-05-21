@@ -1,5 +1,5 @@
 <a href="https://kars.bio" align="center">
-  <img src="https://r2.interrupted.me/uploads/ZZCboh7E.png" 
+  <img src="https://r2.resynced.design/cdn/01JVSG1JHV52YA12VFKVWV07T5.png" 
     align="center"
     >
 <a/>
