@@ -11,12 +11,12 @@
 -   🌱 I'm a full stack web developer, practicing designer, and python/backend enjoyer.
 -   🔭 I’m co-founded [Resynced.design](https://resynced.design) and am trying to scale it!
 -   🧠 Working on improving my skills and design flare!
--   ⚔ I'm also a developer at numerous smaller projects. Currently developing [**Termed.me!**](https://termed.me)
+-   ⚔ I'm also a developer at numerous smaller projects. Currently developing something **coming soon**!
 -   📫 You can contact me on Discord by adding Kars#1996 or check out my [Portfolio](https://kars.bio)
 
 _I mostly do private work so don't expect to see many public commits from me_
 
-Currently improving [termed.me](https://termed.me) consider [`registering now!`](https://termed.me/register?ref=kars&utm_source=gh-readme)
+Built [**termed.me**](https://termed.me) ([`register here!`](https://termed.me/register?ref=kars&utm_source=gh-readme)), [**quova.cc**](https://quova.cc) ([`register here!`](https://quova.c/register?ref=kars&utm_source=gh-readme))
 
 ### My GitHub Statistics
 
