@@ -16,7 +16,7 @@
 
 _I mostly do private work so don't expect to see many public commits from me_
 
-Built [**termed.me**](https://termed.me) ([`register here!`](https://termed.me/register?ref=kars&utm_source=gh-readme)), [**quova.cc**](https://quova.cc) ([`register here!`](https://quova.c/register?ref=kars&utm_source=gh-readme))
+Built [**termed.me**](https://termed.me) ([`register here!`](https://termed.me/register?ref=kars&utm_source=gh-readme)), [**quova.cc**](https://quova.cc) ([`register here!`](https://quova.cc/register?ref=kars&utm_source=gh-readme))
 
 ### My GitHub Statistics
 
