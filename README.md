@@ -16,7 +16,7 @@
 
 _I mostly do private work so don't expect to see many public commits from me_
 
-Built [**termed.me**](https://termed.me) ([`register here!`](https://termed.me/register?ref=kars&utm_source=gh-readme)), [**quova.cc**](https://quova.cc) ([`register here!`](https://quova.cc/register?ref=kars&utm_source=gh-readme))
+Built [**termed.me**](https://termed.me) ([`register here!`](https://termed.me/register?ref=kars&utm_source=gh-readme)) and more!
 
 ### My GitHub Statistics
 
@@ -37,5 +37,7 @@ Built [**termed.me**](https://termed.me) ([`register here!`](https://termed.me/r
     <a href="https://github.com/kars1996">
       <img alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D27237%26project%3D%26in=0">
     </a>
+    <p align="center"><i><sub>Note: I have been using neovim more recently and therefore this is not accurate. Probably add 100 hours onto it.</sub></i></p>
   </p>
+  
 </details>
