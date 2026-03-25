@@ -14,7 +14,7 @@
 -   ⚔ I'm also a developer at numerous smaller projects. Currently developing something **coming soon**!
 -   📫 You can contact me on Discord by adding Kars#1996 or check out my [Portfolio](https://kars.bio)
 
-_I mostly do private work so don't expect to see many public commits from me_
+_I mostly do private work but looking to join the OSS Community_
 
 Built [**termed.me**](https://termed.me), working on [**defe.at**](https://defe.at), something coming *soon* and much more!
 
