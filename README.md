@@ -16,7 +16,7 @@
 
 _I mostly do private work but looking to join the OSS Community_
 
-Built [**termed.me**](https://termed.me), working on [**defe.at**](https://defe.at), something coming *soon* and much more!
+Built [**termed.me**](https://termed.me), working on [**defe.at**](https://defe.at), [**crash.ceo**](Https://crash.ceo) and much more!
 
 ### My GitHub Statistics
 
