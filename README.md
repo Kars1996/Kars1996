@@ -8,7 +8,7 @@
 
 <h3 align='center'>I'm Kars</h3>
 
--   🌱 I'm a full stack web developer, (aspiring) app developer, and python/backend enjoyer.
+-   🌱 I'm a full time developer, (aspiring) app developer, and python/backend enjoyer.
 -   🔭 I’m co-founded [Resynced.design](https://resynced.design) and am trying to scale it!
 -   🧠 Working on improving my skills and design flare!
 -   ⚔ I'm also a developer at numerous smaller projects. Currently developing something **coming soon**!
